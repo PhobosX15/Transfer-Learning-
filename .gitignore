@@ -1,0 +1,9 @@
+**/*
+!*.ipynb
+!*.h5
+!*.p
+!*.png
+!*.pt
+!*.pth
+!requirements.txt
+
