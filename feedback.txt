@@ -1,0 +1,26 @@
+Feedback for Rangaraj, Pavan Aakash:
+
+Part 1:
+Implementation: Well done.
+Score (50%): 20.0 / 20 
+
+Accuracy obtained: 36.88% 
+Accuracy score (50%): 7.2 / 10
+(Accuracy score is scaled between minimum (10%), and class maximum (70.01%))
+
+Part 2:
+Implementation: Well done!
+Score (50%): 20.0 / 20 
+
+Accuracy obtained: 80.31% 
+Accuracy score (50%): 10.0 / 10
+(Accuracy score is scaled between minimum (70%), and class maximum (80.31%))
+
+Part 3:
+Implementation: Well done.
+Score: 10.0 / 10 
+
+Total: 94.4 / 100
+
+See the model solution here: https://tinyurl.com/2AMM15A3 
+
