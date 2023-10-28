@@ -6,4 +6,5 @@
 !*.pt
 !*.pth
 !requirements.txt
-
+model1.h5
+model1.p
